@@ -8,3 +8,7 @@ dist
 *.log
 .env
 .env.*
+
+# local QA captures (keep docs/screenshots)
+/screenshots/
+artifacts/
